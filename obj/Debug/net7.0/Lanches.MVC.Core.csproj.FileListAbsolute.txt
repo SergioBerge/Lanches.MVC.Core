@@ -73,3 +73,6 @@ C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\obj\Debug\net7.0\r
 C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\obj\Debug\net7.0\Lanches.MVC.Core.pdb
 C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\obj\Debug\net7.0\Lanches.MVC.Core.genruntimeconfig.cache
 C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\obj\Debug\net7.0\ref\Lanches.MVC.Core.dll
+C:\Users\Windows-SSD\Documents\teste\Lanches.MVC.Core\obj\Debug\net7.0\Lanches.MVC.Core.dll
+C:\Users\Windows-SSD\Documents\teste\Lanches.MVC.Core\obj\Debug\net7.0\refint\Lanches.MVC.Core.dll
+C:\Users\Windows-SSD\Documents\teste\Lanches.MVC.Core\obj\Debug\net7.0\Lanches.MVC.Core.pdb
