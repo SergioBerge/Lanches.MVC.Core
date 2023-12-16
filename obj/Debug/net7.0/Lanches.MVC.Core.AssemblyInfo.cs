@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lanches.MVC.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dfc44ac93c33ed30bbeddbfb0f246dec677a5e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lanches.MVC.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lanches.MVC.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

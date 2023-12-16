@@ -84,3 +84,4 @@ C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\bin\Debug\net7.0\r
 C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
 C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\obj\Debug\net7.0\Lanches.MVC.Core.sourcelink.json

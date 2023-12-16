@@ -10,6 +10,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lanches.MVC.Core
 build_property.RootNamespace = Lanches.MVC.Core
 build_property.ProjectDir = C:\Users\sergi\source\repos\Lanches.MVC.Core\Lanches.MVC.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -22,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/sergi/source/repos/Lanches.MVC.Core/Lanches.MVC.Core/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sergi/source/repos/Lanches.MVC.Core/Lanches.MVC.Core/Views/Lanches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sergi/source/repos/Lanches.MVC.Core/Lanches.MVC.Core/Views/Shared/Error.cshtml]
