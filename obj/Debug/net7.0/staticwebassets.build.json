@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3IXAt8P46K/KMBlDsBnIXSY2Hud6wjFyomRaJAEn1tg=",
+  "Hash": "1QrMzVpZZHqB0/cLWwzKpwH/r6FZhTOaOx7NHKMetA0=",
   "Source": "Lanches.MVC.Core",
   "BasePath": "_content/Lanches.MVC.Core",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\sergi\\source\\repos\\Lanches.MVC.Core\\Lanches.MVC.Core\\wwwroot\\img\\backgroud.png",
+      "SourceId": "Lanches.MVC.Core",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sergi\\source\\repos\\Lanches.MVC.Core\\Lanches.MVC.Core\\wwwroot\\",
+      "BasePath": "_content/Lanches.MVC.Core",
+      "RelativePath": "img/backgroud.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\backgroud.png"
     },
     {
       "Identity": "C:\\Users\\sergi\\source\\repos\\Lanches.MVC.Core\\Lanches.MVC.Core\\wwwroot\\js\\site.js",
