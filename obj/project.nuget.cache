@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WclcUyFGdmXiSeH6Z9feTeUNru4ZlnGBIn1Nm6bz1QSWIlgMF2GFBlliQIh43jnULEiynJq5wzNxG7Jw45CEFw==",
+  "dgSpecHash": "xsQtxcraSrVP6wftl+cMzV6QVXojY9+4NtOxqaIPbUlv8cjStJkCTtgJe0jHqTNIPjeQwWNUIIB03MlGpb5YUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sergi\\source\\repos\\Lanches.MVC.Core\\Lanches.MVC.Core\\Lanches.MVC.Core.csproj",
   "expectedPackageFiles": [
@@ -78,11 +78,7 @@
     "C:\\Users\\sergi\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\sergi\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\sergi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\sergi\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
